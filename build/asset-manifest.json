@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/snakegame/static/css/main.6b755302.chunk.css",
+    "main.js": "/snakegame/static/js/main.49bdcceb.chunk.js",
+    "main.js.map": "/snakegame/static/js/main.49bdcceb.chunk.js.map",
+    "runtime-main.js": "/snakegame/static/js/runtime-main.eaf64e2d.js",
+    "runtime-main.js.map": "/snakegame/static/js/runtime-main.eaf64e2d.js.map",
+    "static/css/2.818011ed.chunk.css": "/snakegame/static/css/2.818011ed.chunk.css",
+    "static/js/2.924bb67c.chunk.js": "/snakegame/static/js/2.924bb67c.chunk.js",
+    "static/js/2.924bb67c.chunk.js.map": "/snakegame/static/js/2.924bb67c.chunk.js.map",
+    "static/js/3.a22b75c4.chunk.js": "/snakegame/static/js/3.a22b75c4.chunk.js",
+    "static/js/3.a22b75c4.chunk.js.map": "/snakegame/static/js/3.a22b75c4.chunk.js.map",
+    "index.html": "/snakegame/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/snakegame/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.6b755302.chunk.css.map": "/snakegame/static/css/main.6b755302.chunk.css.map",
+    "static/js/2.924bb67c.chunk.js.LICENSE.txt": "/snakegame/static/js/2.924bb67c.chunk.js.LICENSE.txt",
+    "static/media/apple.1bfbdcbc.gif": "/snakegame/static/media/apple.1bfbdcbc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaf64e2d.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.924bb67c.chunk.js",
+    "static/css/main.6b755302.chunk.css",
+    "static/js/main.49bdcceb.chunk.js"
+  ]
+}
